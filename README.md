@@ -1,4 +1,4 @@
-# 📊 Data Science Salary Dashboard (Excel)
+# 📊 Data Science Salary Dashboard  
 
 > Interactive Excel dashboard visualizing salary trends and employment insights from **32,673** Data‑Science job listings.
 
