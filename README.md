@@ -2,7 +2,7 @@
 
 > Interactive Excel dashboard visualizing salary trends and employment insights from **32,673** Data‑Science job listings.
 
-![Uploading Screenshot 2025-06-28 170949.png…]()
+![Screenshot 2025-06-28 170949](https://github.com/user-attachments/assets/42a3fe74-e9fe-4146-a67f-e63c4ebcd149)
 
 
 ## Table of Contents
